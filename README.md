@@ -779,13 +779,12 @@ index.html
 ```
 
 ## OUTPUT
-(<Screenshot 2026-05-12 131644.png>) 
-
-(<Screenshot 2026-05-12 131449.png>) 
-(<Screenshot 2026-05-12 131501.png>) 
-(<Screenshot 2026-05-12 131532.png>) 
-(<Screenshot 2026-05-12 131608.png>) 
-(<Screenshot 2026-05-12 131633.png>)
+![alt text](<Screenshot 2026-05-12 131449.png>)
+![alt text](<Screenshot 2026-05-12 131501.png>)
+![alt text](<Screenshot 2026-05-12 131532.png>)
+![alt text](<Screenshot 2026-05-12 131608.png>)
+![alt text](<Screenshot 2026-05-12 131633.png>)
+![alt text](<Screenshot 2026-05-12 131644.png>)
 
 ## RESULT
 The program for creating commercial website using CSS Flexbox is executed successfully.
